@@ -1,3 +1,6 @@
+> ⚠️ **This repository is archived and kept for reference purposes only.**  
+> It is no longer maintained and will not receive updates or support.
+
 # Composed Function: Go "Slack Bot"
 
 ## Introduction: Composed Function
